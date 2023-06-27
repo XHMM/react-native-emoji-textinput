@@ -9,7 +9,7 @@ There are already js-implemented emoji picker components for usage, but I prefer
 - Only for ios now
 - Only wrapped for single-line text-input component, if you want to support multi-line text-input, just open an issue. (I think it's more promising to put this feature into react-native)
 - I haven't found a way to hide the globe(language-switch) icon below the ios keyboard, tell me if you found a way.
--
+
 ## Installation
 
 ```sh
