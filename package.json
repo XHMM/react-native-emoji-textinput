@@ -1,7 +1,7 @@
 {
   "name": "react-native-emoji-textinput",
   "version": "0.1.0",
-  "description": "test",
+  "description": "Show (ios) native emoji keyboard in react-native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/index.d.ts",
@@ -39,15 +39,17 @@
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "android",
+    "emoji",
+    "keyboard"
   ],
-  "repository": "http://none.co",
-  "author": "none <none@break.com> (http://none.com)",
+  "repository": "https://github.com/XHMM/react-native-emoji-textinput",
+  "author": "xhmm <super.xhmm@gmail.com> (https://github.com/XHMM)",
   "license": "MIT",
   "bugs": {
-    "url": "http://none.co/issues"
+    "url": "https://github.com/XHMM/react-native-emoji-textinput/issues"
   },
-  "homepage": "http://none.co#readme",
+  "homepage": "https://github.com/XHMM/react-native-emoji-textinput#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
