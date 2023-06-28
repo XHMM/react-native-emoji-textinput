@@ -1,5 +1,7 @@
 # react-native-emoji-textinput
 
+**Still in development, please don't use it now.**
+
 Show ios native emoji keyboard
 
 ## Why this
@@ -18,11 +20,11 @@ npx pod-install
 ```
 
 ## Usage
-
+~~Use just like normal TextInput component except `multiline` prop~~
+Not a truly TextInput wrapper
 ```js
 import { EmojiTextinputView } from "react-native-emoji-textinput";
 
-// use just like normal TextInput component except `multiline` prop
 <EmojiTextinputView {...propsForTextInput} />
 ```
 
