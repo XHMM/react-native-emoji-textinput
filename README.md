@@ -1,3 +1,6 @@
+# Not work on physical device
+I have tried `textInputContextIdentifier` and `textInputMode` but not work in physical device(test on ios 16.6.1), I think you need to use a custom implemented emoji picker instead.
+
 # react-native-emoji-textinput
 
 **Still in development, please don't use it now.**
